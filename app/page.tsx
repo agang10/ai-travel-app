@@ -830,7 +830,7 @@ const [savedId, setSavedId] = useState<string | null>(null);
               <div style={{ marginTop: 4 }}>
                 <button
                   className="wp-btn-primary"
-                  disabled={!mounted || !destination.trim() || status === 'loading'}
+                  disabled={Boolean(status === 'loading' || destination.trim().length === 0)}
                   onClick={generate}
                 >
                   {status === 'loading' ? (
