@@ -15,3 +15,5 @@ Personal project built to learn software development and product design.
 
 ## Purpose
 Built independently as a side project to explore product development and travel technology.
+
+![AI Travel App Demo](./AI%20Travel%20App%20Demo.png)
