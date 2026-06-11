@@ -21,4 +21,4 @@ Built independently as a side project to explore product development and travel 
 
 ## Demo
 
-![AI Travel App Demo](./AI%20Travel%20App%20Demo%1.png)
+![AI Travel App Demo](./AI%20Travel%20App%20Demo%201.png)
